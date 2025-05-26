@@ -1,6 +1,6 @@
 public class Car
 {
-    String make = "Ford";
+    String make = "Ford"；
     String model = "Mustang";
     int year = 2025;
     double price = 50000.00;
